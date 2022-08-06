@@ -1,0 +1,65 @@
+.title{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Secular One', sans-serif;
+    display: inline-block;
+    background-image: linear-gradient(to right,#38adae,#cd295a);
+    margin-top: 10px; margin-bottom: 10px;
+    border-radius: 7px;
+    color: beige;
+    padding: 5px 10px;
+}
+iframe{
+    width: 400px;
+    height: 225px;
+    border-radius: 5px;
+    margin: 5px;
+}
+img{
+    height: 200px; width: 200px;
+    border-radius: 5px;
+    margin: 10px;
+    border: 2px solid royalblue;
+}
+.names{
+    position:relative;
+    margin-top: 10px; margin-bottom: 10px;
+}
+.r{
+    position: absolute;
+    display: inline-block;
+    font-weight:700;
+    font-size: 20px;
+    background-image: linear-gradient(45deg,#a9f1df,#ffbbbb);
+    border: 3px;
+    padding: 5px;
+    border-radius: 4px;
+    
+}
+div div a{
+    text-decoration: none;color:green;
+}
+.nish{
+    left: 3%;
+}
+.adi{
+    left: 21%;
+}
+.ayus{
+    left: 36%;
+}
+.ishan{
+    left: 55%;
+}
+.anuj{
+    left: 3%;
+}
+.love{
+    left: 21%;
+}
+.think{
+    left: 38%;
+}
+.apna{
+    left: 71%;
+}

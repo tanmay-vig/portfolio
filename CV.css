@@ -1,0 +1,66 @@
+main{
+    font-weight: bolder;
+}
+
+.first-div{
+    padding-top: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-top: 10px; margin-bottom: 10px;
+    font-size: 20px;
+
+}
+.p{
+    font-size: 20px;
+    text-align: center;
+}
+.self{
+    height:170px; width: 150px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.relative{
+    position: relative;
+    width:100%;
+    height: 25px;
+}
+.relative1{
+    position: relative;
+    width: 100%;
+    height: 330px;
+
+}
+.relative2{
+    position: relative;
+    width:100%;
+    height: 150px;
+}
+.relative3{
+    position: relative;
+    width:100%;
+    height: 170px;
+}
+.abs1{
+    display: inline-block;
+    position: absolute;
+    left: 5%;
+    text-transform: uppercase;
+}
+.abs2{
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+text-transform: uppercase;
+}
+.abs3{
+    display: inline-block;
+    position: absolute;
+    left: 80%;
+    text-transform: uppercase;
+}
+.abs4{
+    display: inline-block;
+    position: absolute;
+    left: 70%;
+    text-transform: uppercase;
+}

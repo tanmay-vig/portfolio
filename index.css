@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(to right,#f1eab9,#ff8c8c);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-styling{
+    height: 100px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgba(230, 209, 230, 0.822);
+    box-sizing: border-box;
+    position: relative;
+    margin: 0;
+}
+header h1{
+    text-align: center;
+    color: rgb(102, 41, 201);
+}
+.body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.home{
+
+    font-size:35px;
+    position: absolute;
+    left: 2%; bottom: 0; 
+}
+.particular{
+    text-decoration: none;
+    color: chocolate;
+    height: 50px;
+    background-color: antiquewhite;
+    border-radius: 3px;
+}
+a{
+    transition: 2s;
+}
+a:hover{
+    color:fuchsia;
+}
+.resources{
+
+font-size: 35px;
+    position: absolute;
+    left: 9%; bottom: 0;
+}
+
+.CV{
+    position: absolute; font-size: 35px;
+    left:21%; bottom: 0; color: chocolate;
+}
+.contact{
+
+    font-size: 35px;
+    position: absolute;
+    left: 26%; bottom: 0; 
+}
+header div a{
+    text-decoration: none;
+    color: chocolate;
+}
+footer{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: rgb(25, 6, 110);
+    background-color: burlywood;
+    height: 50px;
+    padding: 10px;
+    margin-top: 7px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
